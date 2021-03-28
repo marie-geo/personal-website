@@ -6,7 +6,7 @@ widget: hero
 widget_id: recent-posts
 headless: true
 weight: 10
-title: Anna-Maria Georgarakis
+title: Human Robotics Design
 subtitle: ""
 design:
   columns: "1"
@@ -14,4 +14,3 @@ design:
     color: rgba(90, 133, 169, 0.54)
 hero_media: welcome.jpg
 ---
-Human Robotics Design
