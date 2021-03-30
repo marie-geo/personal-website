@@ -5,10 +5,10 @@ name = "Maries"
 light = true
 
 # Primary
-primary = "#7495C4"
+primary = "#395F7D"
 
 # Menu
-menu_primary = "#7495C4" # Material 500
+menu_primary = "#395F7D" # Material 500
 menu_text = "#fff"
 menu_text_active = "#C4B86A" # Material Complemantary 500
 menu_title = "#fff"
@@ -18,5 +18,5 @@ home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
 
 [dark]
-  link = "#B7C1CE"
-  link_hover = "#B7C1CE"
+  link = "#a5bdd0"
+  link_hover = "#a5bdd0"
