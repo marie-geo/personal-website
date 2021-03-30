@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: recent-posts
 headless: true
-weight: 10
+weight: 20
 title: "Human Robotics Design"
 subtitle: ""
 design:
