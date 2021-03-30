@@ -41,6 +41,16 @@ summary: "To find an intuitive way of human-robot interaction with the Myoshirt,
   controller."
 url_dataset: "#"
 url_project: ""
+author_notes:
+  - Sensory-Motor Systems (SMS) Lab
+  - Institute of Robotics and Intelligent Systems (IRIS)
+  - ETH Zurich
+  - Switzerland Reharobotics Group
+  - Spinal Cord Injury Center
+  - Balgrist University Hospital
+  - Medical Faculty
+  - University of Zurich
+  - Switzerland
 publication_short: ""
 url_source: "#"
 url_video: "#"
@@ -50,8 +60,8 @@ featured: false
 date: 2013-07-01T00:00:00Z
 url_slides: ""
 title: Control for gravity compensation in tendon-driven upper limb exosuits
-tags:
-  - Source Themes
+subtitle: ""
+tags: []
 links:
   - name: Custom Link
     url: http://example.org
@@ -66,9 +76,3 @@ url_poster: "#"
 url_code: "#"
 doi: 10.1109/BioRob49111.2020.9224460
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
