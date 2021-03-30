@@ -5,7 +5,7 @@ date: 2021-03-30T21:02:35.818Z
 draft: false
 featured: false
 external_link: https://mariegeorgarakis.com/project/the-myoshirt/
-image:
+image: myoshirt.jpg
   filename: featured
   focal_point: Smart
   preview_only: false
