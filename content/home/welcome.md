@@ -6,8 +6,8 @@ widget: hero
 widget_id: recent-posts
 headless: true
 weight: 10
-title: ""
-subtitle: "Human Robotics Design"
+title: "Human Robotics Design"
+subtitle: ""
 design:
   columns: "1"
   background:
