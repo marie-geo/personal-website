@@ -1,0 +1,22 @@
+# Theme metadata
+name = "Maries"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#7495C4"
+
+# Menu
+menu_primary = "#7495C4" # Material 500
+menu_text = "#fff"
+menu_text_active = "#C4B86A" # Material Complemantary 500
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#B7C1CE"
+  link_hover = "#B7C1CE"
