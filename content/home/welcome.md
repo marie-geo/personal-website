@@ -11,7 +11,7 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    color: rgba(90, 133, 169, 0.54)
+    color: rgba(255, 255, 255, 0)
 hero_media: welcome.jpg
 ---
 Human Robotics Design
