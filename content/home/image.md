@@ -19,6 +19,7 @@ design:
   columns: "1"
   background:
     image: D72_7777.jpg
+      focal_point: "left"
     image_darken: 0
     image_parallax: false
     image_position: center
