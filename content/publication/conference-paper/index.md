@@ -54,7 +54,7 @@ author_notes:
 publication: In 2020 8th IEEE RAS/EMBS International Conference for Biomedical
   Robotics and Biomechatronics (BioRob)
 featured: false
-date: 2013-07-01T00:00:00.000Z
+date: 2020-10-15T00:00:00.000Z
     
 slides: null
 #url_pdf: 
@@ -76,7 +76,7 @@ image:
   caption: "Image credit: Florian Haufe 2020"
   focal_point: Bottom
   preview_only: false
-  filename: d72_7722.jpg
-publishDate: 2017-01-01T00:00:00.000Z
+  filename: featured.jpg
+publishDate: 2020-10-15T00:00:00.000Z
 
 ---
