@@ -83,7 +83,7 @@ url_source: ""
 url_video: ""
 publication: Frontiers in Human Neuroscience
 featured: false
-date: 2021-03-31T21:31:27.948Z
+date: 2021-03-31T20:31:00.000Z
 url_slides: ""
 title: Age-dependent asymmetry of wrist position sense Is not influenced by
   stochastic tactile stimulation
