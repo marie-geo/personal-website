@@ -48,7 +48,7 @@ author_notes:
   - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Switzerland
   - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Switzerland
 publication_short: ""
-url_source: "https://ieeexplore.ieee.org/abstract/document/9224460"
+#url_source: "https://ieeexplore.ieee.org/abstract/document/9224460"
 url_video: "https://www.youtube.com/watch?v=RBc0ym1b0qM"
 publication: In 2020 8th IEEE RAS/EMBS International Conference for Biomedical
   Robotics and Biomechatronics (BioRob)
@@ -58,9 +58,9 @@ date: 2013-07-01T00:00:00.000Z
 title: Control for gravity compensation in tendon-driven upper limb exosuits
 subtitle: ""
 tags: []
-links:
-  - name: Custom Link
-    url: http://example.org
+links: []
+#  - name: Custom Link
+#    url: http://example.org
 projects: []
 image:
   caption: "Image credit: Florian Haufe 2020"
