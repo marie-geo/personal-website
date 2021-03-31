@@ -46,20 +46,38 @@ authors:
   - BJ Martin
   - R Riener
   - V Klamroth-Marganska
-summary: ""
+summary: In this study, we showed how wrist position sense asymmetry changes
+  with age, and how these changes are unaffected by stochastic tactile
+  stimulation.
 url_dataset: ""
 url_project: ""
 author_notes:
-  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
-  - Reconfigurable Robotics Laboratory (RRL), Institute of Mechanical Engineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
-  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
-  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
-  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
-  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
-  - Reconfigurable Robotics Laboratory (RRL), Institute of Mechanical Engineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
-  - Department of Industrial and Operations Engineering (IOE), Center for Ergonomics, University of Michigan, Ann Arbor, MI, United States
-  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
-  - School of Health Professions, ZHAW Zurich University of Applied Sciences, Winterthur, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and
+    Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS),
+    ETH Zurich, Zurich, Switzerland
+  - Reconfigurable Robotics Laboratory (RRL), Institute of Mechanical
+    Engineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences
+    and Technology (D-HEST), Institute of Robotics and Intelligent Systems
+    (IRIS), ETH Zurich, Zurich, Switzerland
+  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences
+    and Technology (D-HEST), Institute of Robotics and Intelligent Systems
+    (IRIS), ETH Zurich, Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and
+    Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS),
+    ETH Zurich, Zurich, Switzerland
+  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences
+    and Technology (D-HEST), Institute of Robotics and Intelligent Systems
+    (IRIS), ETH Zurich, Zurich, Switzerland
+  - Reconfigurable Robotics Laboratory (RRL), Institute of Mechanical
+    Engineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+  - Department of Industrial and Operations Engineering (IOE), Center for
+    Ergonomics, University of Michigan, Ann Arbor, MI, United States
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and
+    Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS),
+    ETH Zurich, Zurich, Switzerland
+  - School of Health Professions, ZHAW Zurich University of Applied Sciences,
+    Winterthur, Switzerland
 publication_short: ""
 url_source: ""
 url_video: ""
@@ -76,7 +94,7 @@ image:
   focal_point: CENTER
   preview_only: false
   filename: featured.jpg
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.3389/fnhum.2020.00065
