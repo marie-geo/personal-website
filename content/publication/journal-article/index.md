@@ -50,12 +50,16 @@ summary: ""
 url_dataset: ""
 url_project: ""
 author_notes:
-  - Sensory-Motor Systems (SMS) Lab
-  - Department of Health Sciences and Technology (D-HEST)
-  - Institute of Robotics and Intelligent Systems (IRIS)
-  - ETH Zurich
-  - Zurich
-  - Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
+  - Reconfigurable Robotics Laboratory (RRL), Institute of Mechanical Engineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
+  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
+  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
+  - Reconfigurable Robotics Laboratory (RRL), Institute of Mechanical Engineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+  - Department of Industrial and Operations Engineering (IOE), Center for Ergonomics, University of Michigan, Ann Arbor, MI, United States
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Zurich, Switzerland
+  - School of Health Professions, ZHAW Zurich University of Applied Sciences, Winterthur, Switzerland
 publication_short: ""
 url_source: ""
 url_video: ""
