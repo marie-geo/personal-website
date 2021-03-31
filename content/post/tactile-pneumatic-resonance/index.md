@@ -1,7 +1,7 @@
 ---
 title: Tactile Pneumatic Resonance
 subtitle: ""
-date: 2021-03-31T21:15:02.790Z
+date: 2021-03-31T19:15:00.000Z
 summary: I developed a device that can be used to provide tactile pneumatic
   stimulation using custom-made soft pneumatic actuators SPA.
 draft: false
