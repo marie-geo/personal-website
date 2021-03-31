@@ -42,22 +42,18 @@ summary: "To find an intuitive way of human-robot interaction with the Myoshirt,
 url_dataset: "#"
 url_project: ""
 author_notes:
-  - Sensory-Motor Systems (SMS) Lab
-  - Institute of Robotics and Intelligent Systems (IRIS)
-  - ETH Zurich
-  - Switzerland Reharobotics Group
-  - Spinal Cord Injury Center
-  - Balgrist University Hospital
-  - Medical Faculty
-  - University of Zurich
-  - Switzerland
+  - Sensory-Motor Systems (SMS) Lab - ETH Zurich
+  - Sensory-Motor Systems (SMS) Lab - ETH ZurichSensory-Motor Systems (SMS) Lab
+    - ETH Zurich
+  - Sensory-Motor Systems (SMS) Lab - ETH ZurichSensory-Motor Systems (SMS) Lab
+    - ETH Zurich
 publication_short: ""
 url_source: "#"
 url_video: "#"
 publication: In 2020 8th IEEE RAS/EMBS International Conference for Biomedical
   Robotics and Biomechatronics (BioRob)
 featured: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: Control for gravity compensation in tendon-driven upper limb exosuits
 subtitle: ""
@@ -71,7 +67,7 @@ image:
   focal_point: Bottom
   preview_only: false
   filename: d72_7722.jpg
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: 10.1109/BioRob49111.2020.9224460
