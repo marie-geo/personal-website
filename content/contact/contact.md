@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-If you would like to know about me and my work, just send me a message. I will be happy to get in contact with you soon.
+If you would like to know more about me and my work, or wish to collaborate, just send me a message. I will get in contact with you soon.
