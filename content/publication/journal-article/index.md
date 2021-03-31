@@ -32,7 +32,7 @@ abstract: Stochastic stimulation has been shown to improve movement, balance,
   accurate when estimating wrist flexion, an effect that has not been described
   before.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.frontiersin.org/articles/10.3389/fnhum.2020.00065/pdf
 publication_types:
   - "2"
 authors:
