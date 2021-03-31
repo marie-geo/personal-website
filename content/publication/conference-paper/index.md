@@ -1,7 +1,13 @@
 ---
-title: Control for gravity compensation in tendon-driven upper limb exosuits
-subtitle: ""
-
+publication_types:
+  - "1"
+authors:
+  - AM Georgarakis
+  - J Song
+  - P Wolf
+  - R Riener
+  - M Xiloyannis
+publication_short: ""
 abstract: "Soft wearable robots, or exosuits, area promising technology to
   assist the upper limb during daily life activities. So far, several exosuit
   concepts have been proposed, some of which were successfully tested in
@@ -28,55 +34,37 @@ abstract: "Soft wearable robots, or exosuits, area promising technology to
   satisfied the bandwidth requirement for daily life assistance, while the DF
   controller (0.83 Hz) did not. It can he concluded that the IF controller is
   most suitable for assisting human movement in daily life with the Myoshirt."
-
+slides: null
 summary: "To find an intuitive way of human-robot interaction with the Myoshirt,
   we compared three different force control schemes: a direct force controller,
   a direct force controller with friction compensation, an indirect force
   controller."
-publication_short: ""  
-
-publication_types:
-  - "1"
-
-authors:
-  - AM Georgarakis
-  - J Song
-  - P Wolf
-  - R Riener
-  - M Xiloyannis
+url_video: https://www.youtube.com/watch?v=RBc0ym1b0qM
+title: Control for gravity compensation in tendon-driven upper limb exosuits
+subtitle: ""
 author_notes:
-  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Switzerland
-  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Switzerland
-  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Switzerland
-  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Switzerland
-  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent Systems (IRIS), ETH Zurich, Switzerland
-
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
 publication: In 2020 8th IEEE RAS/EMBS International Conference for Biomedical
   Robotics and Biomechatronics (BioRob)
 featured: false
-date: 2020-10-15T00:00:00.000Z
-    
-slides: null
-#url_pdf: 
-#url_dataset: ""
-#url_project: ""
-#url_source: "https://ieeexplore.ieee.org/abstract/document/9224460"
-url_video: "https://www.youtube.com/watch?v=RBc0ym1b0qM"
-#url_slides: ""
-#url_poster: ""
-#url_code: ""
-doi: 10.1109/BioRob49111.2020.9224460
 tags: []
+date: 2021-03-31T21:43:57.642Z
 links: []
-#  - name: Custom Link
-#    url: http://example.org
 projects: []
-
 image:
   caption: "Image credit: Florian Haufe 2020"
   focal_point: Bottom
   preview_only: false
   filename: featured.jpg
 publishDate: 2020-10-15T00:00:00.000Z
-
+doi: 10.1109/BioRob49111.2020.9224460
 ---
