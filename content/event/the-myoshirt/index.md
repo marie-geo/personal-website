@@ -6,7 +6,7 @@ location: University of Heidelberg
 date: 2020-07-03T13:00:00.000Z
 date_end: 2020-07-03T15:00:00.000Z
 all_day: true
-event: INvited talk
+event: Invited talk
 event_url: '""'
 publishDate: 2021-03-31T21:45:09.810Z
 draft: false
