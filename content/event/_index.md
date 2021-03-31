@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Invited talks and conference presentations
 
 # View.
 #   1 = List
