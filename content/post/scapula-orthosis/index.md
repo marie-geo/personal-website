@@ -1,6 +1,6 @@
 ---
 title: Scapula Orthosis
-date: 2021-03-31T21:11:35.657Z
+date: 2021-03-31T20:11:00.000Z
 summary: The textile-based scapula orthosis support humans with a scapula alata,
   a protrusion of the scapula caused by a muscular weakness in the upper back.
 draft: false
