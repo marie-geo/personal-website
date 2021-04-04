@@ -2,7 +2,7 @@
 publication_types:
   - "1"
 authors:
-  - AM Georgarakis
+  - A-M Georgarakis
   - J Song
   - P Wolf
   - R Riener
