@@ -6,9 +6,9 @@ location: TU Delft, The Netherlands
 date: 2019-10-29T14:00:00.000Z
 date_end: 2019-10-29T16:00:00.000Z
 all_day: true
-event: '""'
+event: Invited Talk
 event_url: '""'
-publishDate: 2021-04-04T23:03:32.586Z
+publishDate: 2019-10-29T16:00:00.000Z
 draft: false
 featured: false
 image:
