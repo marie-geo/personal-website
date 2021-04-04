@@ -10,7 +10,12 @@ authors:
   - P Wolf
   - R Riener
 author_notes:
-  - S
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
 doi: 10.1109/ICORR.2019.8779401
 publication: 2019 IEEE 16th International Conference on Rehabilitation Robotics (ICORR)
 abstract: In the past few years, several light-weight soft wearable robots, so
@@ -41,5 +46,5 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-04-04T23:34:33.306Z
+date: 2019-06-26T23:34:33.306Z
 ---
