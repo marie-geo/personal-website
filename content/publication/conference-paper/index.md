@@ -65,6 +65,6 @@ image:
   focal_point: Bottom
   preview_only: false
   filename: featured.jpg
-publishDate: 2020-10-15T00:00:00.000Z
+publishDate: 2020-12-01T00:00:00.000Z
 doi: 10.1109/BioRob49111.2020.9224460
 ---
