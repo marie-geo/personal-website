@@ -94,7 +94,7 @@ image:
   focal_point: CENTER
   preview_only: false
   filename: featured.jpg
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020-01-20T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.3389/fnhum.2020.00065
