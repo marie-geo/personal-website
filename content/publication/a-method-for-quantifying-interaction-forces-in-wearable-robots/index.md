@@ -7,9 +7,18 @@ authors:
   - R Stämpfli
   - P Wolf
   - R Riener
-  - Jaime E. Duarte
+  - JE Duarte
 author_notes:
-  - SensoryMotor
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
 doi: 10.1109/BIOROB.2018.8487701
 publication: 2018 7th IEEE International Conference on Biomedical Robotics and
   Biomechatronics (Biorob)
@@ -29,6 +38,7 @@ abstract: Immobility due to movement impairments causes many secondary
   approach that simultaneously measures normal and tangential forces at the
   physical interface of wearable robots. The test-retest reliability is within
   the range of methods that assess only normal forces.
+summary: "We developed and tested a method to quantify normal and shear forces in textile human-robot interfaces."
 draft: false
 featured: false
 image:
