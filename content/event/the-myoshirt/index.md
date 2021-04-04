@@ -8,7 +8,7 @@ date_end: 2020-07-03T15:00:00.000Z
 all_day: true
 event: Invited talk
 event_url: '""'
-publishDate: 2021-03-31T21:45:09.810Z
+publishDate: 2020-07-03T15:00:00.000Z
 draft: false
 featured: false
 authors:
