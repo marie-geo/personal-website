@@ -15,6 +15,17 @@ authors:
   - M Joebges
   - Peter Wolf
   - Robert Riener
+author_notes:
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Kliniken Schmieder Konstanz, Germany
+  - Kliniken Schmieder Konstanz, Germany
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Institute of Robotics and Intelligent
+    Systems (IRIS), ETH Zurich, Switzerland
 publication: submitted
 draft: false
 featured: false
