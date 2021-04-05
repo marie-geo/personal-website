@@ -6,8 +6,40 @@ subtitle: Using Soft Pneumatic Actuators (SPAs), we built a pneumatic actuator
 publication_types:
   - "1"
 authors:
-  - Anna-Maria Georgarakis; Harshal A. Sonar; MD Rinderknecht; Olivier Lambercy;
-    Bernard J. Martin; Verena Klamroth-Mar
+  - A-M Georgarakis
+  - HA Sonar
+  - MD Rinderknecht
+  - O Lambercy
+  - V Klamroth-Marganska
+  - J Paik
+  - BJ Martin
+  - R Riener
+  - JE Duarte
+author_notes:
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and
+    Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS),
+    ETH Zurich, Zurich, Switzerland
+  - Reconfigurable Robotics Laboratory (RRL), Institute of Mechanical
+    Engineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences
+    and Technology (D-HEST), Institute of Robotics and Intelligent Systems
+    (IRIS), ETH Zurich, Zurich, Switzerland
+  - Rehabilitation Engineering Laboratory (RELab), Department of Health Sciences
+    and Technology (D-HEST), Institute of Robotics and Intelligent Systems
+    (IRIS), ETH Zurich, Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and
+    Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS),
+    ETH Zurich, Zurich, Switzerland
+  - Reconfigurable Robotics Laboratory (RRL), Institute of Mechanical
+    Engineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+  - Department of Industrial and Operations Engineering (IOE), Center for
+    Ergonomics, University of Michigan, Ann Arbor, MI, United States
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and
+    Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS),
+    ETH Zurich, Zurich, Switzerland
+  - Sensory-Motor Systems (SMS) Lab, Department of Health Sciences and
+    Technology (D-HEST), Institute of Robotics and Intelligent Systems (IRIS),
+    ETH Zurich, Zurich, Switzerland
 doi: 10.1109/ICORR.2017.8009216
 publication: 2017 International Conference on Rehabilitation Robotics (ICORR)
 abstract: Executing coordinated movements requires that motor and sensory
