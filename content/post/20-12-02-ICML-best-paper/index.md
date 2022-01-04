@@ -3,6 +3,11 @@ title: The Myoshirt
 date: 2021-03-31T21:00:00.000Z
 summary: The Myoshirt is a textile-based soft wearable robot that supports the
   shoulder against gravity.
+image:
+  filename: featured.jpg
+---
+  The Myoshirt is a textile-based soft wearable robot that supports the
+  shoulder against gravity.
   The Myoshirt basically acts as an external layer of muscles that you can wear like a vest,
   which is why we call it an exomuscle.
   The design of the Myoshirt was based on considerations around activities of daily living,
@@ -34,7 +39,3 @@ summary: The Myoshirt is a textile-based soft wearable robot that supports the
   In a study, the Myoshirt was able to assist both people with and without impairments by
   reducing their muscular effort in a daily life-inspired task, and increasing their muscular
   endurance time in a fatigue task.
-image:
-  filename: featured.jpg
----
-The Myoshirt is a textile-based soft wearable robot that supports the shoulder in daily life.
