@@ -1,4 +1,6 @@
 ---
+title: Age-dependent asymmetry of wrist position sense Is not influenced by
+  stochastic tactile stimulation
 abstract: Stochastic stimulation has been shown to improve movement, balance,
   the sense of touch, and may also improve position sense. This stimulation can
   be non-invasive and may be a simple technology to enhance proprioception. In
@@ -81,12 +83,10 @@ author_notes:
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Frontiers in Human Neuroscience
+publication: "Frontiers in Human Neuroscience"
 featured: false
 date: 2021-03-31T20:31:00.000Z
 url_slides: ""
-title: Age-dependent asymmetry of wrist position sense Is not influenced by
-  stochastic tactile stimulation
 tags: []
 projects: []
 image:
