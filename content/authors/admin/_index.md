@@ -1,11 +1,9 @@
 ---
-role: PhD Student
+role: Robotics engineer
 bio: My research interests are in wearable robotics with a focus on
   textile-based human-robot interfaces, technical and clinical evaluation.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Humans;Robotics;Design
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,9 +19,9 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Rehabilitation Robotics
+    - course: PhD in Health Sciences and Technology
       institution: ETH Zurich
-      year: 2021
+      year: 2022
     - course: MSc in Robotics, Systems and Control
       institution: ETH Zurich
       year: 2016
@@ -34,6 +32,6 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-title: Anna-Maria Georgarakis
+title: Anna-Maria (Marie) Georgarakis
 email: ""
 ---
