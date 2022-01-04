@@ -89,7 +89,8 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Lengghalde 5", city = "Zurich", region = "", postcode = "8008", country = "Switzerland", country_code = "CH"}
+# address = {street = "Lengghalde 5", postcode = "8008", city = "Zurich", region = "", country = "Switzerland", country_code = "CH"}
+address = {street = "", city = "Zurich", region = "", postcode = "", country = "Switzerland", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -144,7 +145,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = false, show_language = false, show_day_night = true, show_search = false}
+main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = false}
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = false
@@ -165,7 +166,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Configuration of publication pages.
 [publications]
