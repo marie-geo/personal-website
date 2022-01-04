@@ -1,6 +1,5 @@
 ---
-title: "Space, Time and Energy: Design and evaluation of an upper limb assistive
-  robot based on daily life inspired metrics"
+title: "A textile exomuscle that assists the shoulder during functional movements for daily life tasks"
 subtitle: We used a daily life centered approach to design, build and evaluate a
   wearable, textile-based assistive robot for the shoulder.
 publication_types:
