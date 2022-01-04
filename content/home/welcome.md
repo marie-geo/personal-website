@@ -14,4 +14,4 @@ design:
     color: rgba(255, 255, 255, 0)
 hero_media: welcome.jpg
 ---
-Based on my education in engineering and robotics, I design textile-based wearable assistive robots for humans with mobility impairments. Throughout my PhD with Prof. Robert Riener at the Sensory-Motor Systems lab, ETH Zurich, I gained profound knowledge and experience in human anatomy and biomechanics, control for human-robot interactions, design and manufacturing of textile human-robot interfaces and validation of assistive robots.
+I am a robotics engineer with a passion for practical design. I enjoy observing and imagining the way humans perceive and interact with their environment, with the goal of creating objects and machines that can be seamlessly integrated and intuitively used in our daily routines.
