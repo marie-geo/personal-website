@@ -1,8 +1,7 @@
 ---
 role: Robotics engineer
 avatar_filename: img_7686_3_gimp-4-_s.jpg
-bio: My research interests are in wearable robotics with a focus on
-  textile-based human-robot interfaces, technical and clinical evaluation.
+bio: I am a robotics engineer with a passion for practical design.
 interests:
   - Humans
   - Robotics
