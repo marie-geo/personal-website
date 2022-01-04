@@ -54,5 +54,6 @@ date: 2021-03-31T20:31:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
+url_video: "https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-021-00926-z#Sec20"
 doi: https://doi.org/10.1186/s12984-021-00926-z
 ---
