@@ -1,5 +1,6 @@
 ---
-title: A textile exomuscle that assists the shoulder
+title: A textile exomuscle that assists the shoulder during functional movements
+  for everday life
 subtitle: We used a daily life centered approach to design, build and evaluate a
   wearable, textile-based assistive robot for the shoulder.
 publication_types:
